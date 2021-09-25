@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Jasurbek-Sharofiddinov
+# *👋 Hi, I’m @Jasurbek-Sharofiddinov*
+
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning phyton
+- 🌱 I’m currently learning phyton/django
 - 📫 How to reach me http://myurls.co/jasurbek_sharofiddinov
 - 🚀The one who want to change the world
 
