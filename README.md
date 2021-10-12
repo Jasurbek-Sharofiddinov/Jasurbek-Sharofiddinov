@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning phyton/django
 - 📫 How to reach me http://myurls.co/jasurbek_sharofiddinov
 - 🚀The one who want to change the world
+-    Linkedin: https://www.linkedin.com/in/jasurbek-sharofiddinov-1b7429204/
 ### Education: *Inha University in Tashkent*
 ### Candiate for Backend development: *Pyhton/Django*
 <!---
