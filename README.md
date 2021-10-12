@@ -6,7 +6,7 @@
 - 🚀The one who want to change the world
 -    Linkedin: https://www.linkedin.com/in/jasurbek-sharofiddinov-1b7429204/
 ### Education: *Inha University in Tashkent*
-### Candiate for Backend development: *Pyhton/Django*
+### Backend development: *Pyhton/Django*
 <!---
 Jasurbek-Sharofiddinov/Jasurbek-Sharofiddinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
