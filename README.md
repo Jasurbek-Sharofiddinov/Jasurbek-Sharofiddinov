@@ -1,6 +1,6 @@
 # *👋 Hi, I’m @Jasurbek-Sharofiddinov*
 
-- 👀 I’m interested in machine learning
+- 👀 I’m Computer Software Engineering student
 - 🌱 I’m currently learning phyton/django
 - 📫 How to reach me http://myurls.co/jasurbek_sharofiddinov
 - 🚀The one who want to change the world
